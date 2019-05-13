@@ -1,0 +1,9 @@
+_Delay_xms: CODE, 907 0 28
+_main: CODE, 874 0 9
+_IOPort_Init: CODE, 895 0 12
+_key_Scan: CODE, 865 0 4
+_Device_Memory_Init: CODE, 883 0 12
+_Input_INLOW: CODE, 964 0 29
+_Input_INPUT: CODE, 993 0 31
+_Input_INHIGH: CODE, 935 0 29
+Total: 154
